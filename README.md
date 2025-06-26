@@ -27,16 +27,16 @@
 
 ### 1. Clone this baddie
 
-```bash
 git clone https://github.com/priyaa-sharma/blush-bot-discord.git
 cd blush-bot-discord
+
 ----
 Install dependencies
 npm install
 
 RUN : node index.js
 
-Createed by @priyaa-sharma
+Created by @priyaa-sharma
 
 
 
