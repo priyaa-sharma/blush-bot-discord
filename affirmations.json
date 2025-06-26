@@ -1,6 +1,26 @@
-[
-  "You’re made of silk and fire. Let them feel it.",
-  "Gentleness doesn’t mean you won’t burn.",
-  "You’re not broken—just in the middle of a gorgeous becoming.",
-  "Take up space, baby. Loud, soft, or screaming."
-]
+{
+  "sad": [
+    "You’re not broken, just beautifully bruised 💔",
+    "Cry it out, but don’t forget you’re still THAT b*tch 😘"
+  ],
+  "angry": [
+    "Burn it all down in heels, baby 🔥",
+    "Let the rage fuel your glow up 😈"
+  ],
+  "happy": [
+    "Stay high on your sparkle 🌈",
+    "You’re radiating like the main character 💅"
+  ],
+  "anxious": [
+    "Inhale confidence, exhale the bullsh*t 🌬️",
+    "You're not overthinking, you're just *too* powerful 😌"
+  ],
+  "tired": [
+    "Even goddesses rest 💤",
+    "Sleep now, slay later 😴"
+  ],
+  "bored": [
+    "Slap on some glitter and cause trouble 💅",
+    "Bored? Babe, rewrite your own story 🖋️"
+  ]
+}
